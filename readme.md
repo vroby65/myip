@@ -10,7 +10,7 @@ A simple program to retrieve the public IP address.
 
 1. Clone the repository: `git clone https://github.com/yourusername/project.git`
 2. Navigate to the project directory: `cd project`
-3. Install the dependencies: `npm install`
+3. make execute permission to file myip and copy in usr/local/bin
 
 ## Usage
 
